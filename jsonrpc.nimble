@@ -5,5 +5,7 @@ author        = "Dominik Picheta"
 description   = "JSON RPC library"
 license       = "MIT"
 
+srcDir = "src"
+
 [Deps]
 Requires: "nim >= 0.10.0"
